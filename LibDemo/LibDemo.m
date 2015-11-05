@@ -14,6 +14,7 @@
 {
     NSLog(@"abc");
     NSLog(@"hello lib demo");
+    NSLog(@"asdflkjasdklfjaklsdfj");
 }
 
 @end
