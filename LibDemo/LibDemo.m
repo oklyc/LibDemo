@@ -12,6 +12,7 @@
 
 + (void)logSomething
 {
+    NSLog(@"abc");
     NSLog(@"hello lib demo");
 }
 
